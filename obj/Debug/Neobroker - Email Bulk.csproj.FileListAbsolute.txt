@@ -1,0 +1,11 @@
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\bin\Debug\Neobroker - Email Bulk.exe.config
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\bin\Debug\Neobroker - Email Bulk.exe
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\bin\Debug\Neobroker - Email Bulk.pdb
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker - Email Bulk.csprojResolveAssemblyReference.cache
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker___Email_Bulk.AboutBox.resources
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker___Email_Bulk.frm_Main.resources
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker___Email_Bulk.Properties.Resources.resources
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker - Email Bulk.csproj.GenerateResource.Cache
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker - Email Bulk.exe
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker - Email Bulk.pdb
+c:\users\w\documents\visual studio 2015\Projects\Neobroker - Email Bulk\Neobroker - Email Bulk\obj\Debug\Neobroker___Email_Bulk.Help.resources
